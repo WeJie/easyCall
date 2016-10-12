@@ -80,7 +80,7 @@ const styles = StyleSheet.create({
   cell: {
     borderRadius: 3,
     borderWidth: 1,
-    borderColor: '#B2B2B2',
+    borderColor: '#E8E8E8',
     marginBottom: 20,
     backgroundColor: 'white',
   },
